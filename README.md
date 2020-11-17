@@ -1,3 +1,4 @@
 # Vitax
 
-https://djokk.github.io/Vitax/.
+https://djokk.github.io/Vitax/
+
